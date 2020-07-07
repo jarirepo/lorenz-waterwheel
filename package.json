@@ -11,8 +11,9 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "uglifyjs-webpack-plugin": "^1.1.5",
-    "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.9.7"
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }
