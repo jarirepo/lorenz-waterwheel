@@ -1,3 +1,3 @@
 # Loren'z waterwheel simulation
 
-<img src="waterwheel.png">
+<img src="docs/waterwheel.png">
