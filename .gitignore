@@ -1,1 +1,8 @@
 node_modules
+
+# Parcel
+.parcel-cache
+dist
+
+# Package Manager
+package-lock.json
